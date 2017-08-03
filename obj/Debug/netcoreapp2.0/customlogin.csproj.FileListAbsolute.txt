@@ -1,0 +1,14 @@
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\bin\Debug\netcoreapp2.0\customlogin.deps.json
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\bin\Debug\netcoreapp2.0\customlogin.runtimeconfig.json
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\bin\Debug\netcoreapp2.0\customlogin.runtimeconfig.dev.json
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\bin\Debug\netcoreapp2.0\customlogin.dll
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\bin\Debug\netcoreapp2.0\customlogin.pdb
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\obj\Debug\netcoreapp2.0\customlogin.csprojResolveAssemblyReference.cache
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\obj\Debug\netcoreapp2.0\customlogin.csproj.CoreCompileInputs.cache
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\obj\Debug\netcoreapp2.0\customlogin.AssemblyInfoInputs.cache
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\obj\Debug\netcoreapp2.0\customlogin.AssemblyInfo.cs
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\obj\Debug\netcoreapp2.0\customlogin.dll
+C:\Users\mclasson\OneDrive - Stratiteq Sweden AB\Trainee\Code\2017\customlogin\obj\Debug\netcoreapp2.0\customlogin.pdb
