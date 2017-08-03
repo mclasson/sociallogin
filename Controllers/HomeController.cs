@@ -18,11 +18,7 @@ namespace customlogin.Controllers
             [Authorize]
     public class HomeController : Controller
     {
-        readonly SignInManager<ClaimsIdentity> _signInManager = null;
-        public HomeController()
-        {
-         
-        }
+  
         public async Task<IActionResult> Index()
         {
             var principal = User.Identity as ClaimsIdentity;
