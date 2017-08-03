@@ -25,13 +25,12 @@ namespace customlogin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            
-            
             var principal = User.Identity as ClaimsIdentity;
-            var idClaim = principal.Claims.Where(i => i.Type == "http://marcusclasson.com/claims/id").SingleOrDefault();
+            var idClaim = principal.Claims.Where(i => i.Type == "http://marcusclasson.com/claims/id")
+                .SingleOrDefault();
+
             if(idClaim == null)
             {
-                
                 principal.AddClaim(new Claim("http://marcusclasson.com/claims/id", "MyCustomId"));
                 await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
                 await HttpContext.SignInAsync(User);
